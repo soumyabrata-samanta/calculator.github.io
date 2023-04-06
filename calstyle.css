@@ -1,0 +1,30 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://img.freepik.com/free-photo/blue-blank-notepad-with-copy-space_23-2148475334.jpg?w=996&t=st=1680791363~exp=1680791963~hmac=1e8ad38a6e0ac2263a0b04db36a4b53d11efe41e02e1acf7c9bd1ee146013317");
+  /*  background-image: url("https://imgs.search.brave.com/CpU_BQvpk0RmSYXD57CrUyqPIUKGYi35DKbNbIKUf4E/rs:fit:800:533:1/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9ncmVl/bi1jYWxjdWxhdG9y/LXdvb2Rlbi1iYWNr/Z3JvdW5kLWNsb3Nl/LXVwLTYxNDIyMjQ3/LmpwZw"); */
+}
+#div-display{
+    width:100%;
+    background-color: rgb(255, 255, 255);
+    font-size: 35px;
+    height:80px;
+}
+#div-second{
+    background-color: rgb(51, 48, 48);
+    width:30%;
+    position:absolute;
+    left:35%;
+    top:20%;
+    height:450px;
+}
+button{
+    background-color:rgb(51, 48, 48);
+    font-size: 50px;
+    border:0;
+    color:aliceblue;
+    text-align:center;
+    width:110px;
+    border-collapse: collapse;
+    margin-top: 28px;
+}
