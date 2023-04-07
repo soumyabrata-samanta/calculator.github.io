@@ -7,8 +7,8 @@ body{
 #div-display{
     width:100%;
     background-color: rgb(255, 255, 255);
-    font-size: 35px;
-    height:80px;
+    font-size:45px;
+    height:20%;
 }
 #div-second{
     background-color: rgb(51, 48, 48);
@@ -16,7 +16,7 @@ body{
     position:absolute;
     left:35%;
     top:20%;
-    height:450px;
+    height:65%;
 }
 button{
     background-color:rgb(51, 48, 48);
@@ -24,7 +24,7 @@ button{
     border:0;
     color:aliceblue;
     text-align:center;
-    width:110px;
+    width:24%;
     border-collapse: collapse;
-    margin-top: 28px;
+    margin-top: 6%;
 }
